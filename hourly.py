@@ -18,7 +18,7 @@ def test_fetch_usom_data():
     headers = {'User-Agent': 'Mozilla/5.0'}
     
     total_new_added = 0
-    MAX_TEST_PAGES = 2000 # Sayfa Limiti
+    MAX_TEST_PAGES = 300 # Sayfa Limiti
     
     for data_type in target_types:
         try:
