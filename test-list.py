@@ -18,7 +18,7 @@ def test_fetch_usom_data():
     headers = {'User-Agent': 'Mozilla/5.0'}
     
     total_new_added = 0
-    MAX_TEST_PAGES = 10 # Test limiti
+    MAX_TEST_PAGES = 100 # Test limiti
     
     for data_type in target_types:
         try:
