@@ -2,7 +2,7 @@ name: USOM Hourly
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Manuel tetikleme butonunu korur
 
 jobs:
