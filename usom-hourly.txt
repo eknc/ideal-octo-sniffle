@@ -140,6 +140,7 @@
 103.149.253.145
 103.149.28.141
 103.149.90.235
+103.149.93.107
 103.15.29.17
 103.151.172.92
 103.151.238.113
@@ -2162,6 +2163,7 @@
 181.92.4.82
 181.97.227.163
 181.98.110.185
+182-intt.com
 182-meharese.com
 182-mehharese.com
 182-mherase.com
@@ -3715,6 +3717,7 @@
 27.79.2.167
 27.79.40.234
 27478900203.duckdns.org
+278973fea636720-5xrydy.csb.app
 2841948923.com
 29.40.48.21
 2934858585949.net
@@ -6410,6 +6413,7 @@ ankaro.gifts
 antalyaandtrstate.info
 antalyalunex.com
 antdqz.cc
+aohmanber.duckdns.org
 api-microservice-us1.com
 api.blnance-basvuru.info
 api.eth-fastscan.org
@@ -7205,6 +7209,7 @@ bykrmznfrscrfonlin.cfd
 byntra.store
 byntrahubs.store
 byrmkmpn-yasi.xyz
+byrmocankan.duckdns.org
 byrmozel.blogspot.com
 bznzn.duckdns.org
 c.windowsk-cdn.com
@@ -7521,6 +7526,7 @@ dijitalgarantitalepyonetimsistemi.space
 dijitalgib-tr.com
 dijitalsbasvurukanal.duckdns.org
 dijitalweb-kampanya.com
+dijitalweb-kampanyalarimiz.com
 dijitalyapi.click
 dijitalyapi.xyz
 dinersciub.qpon
@@ -7990,6 +7996,7 @@ genelgundem7.com
 gennora.shop
 gennora.site
 gennora.store
+genovixworld.com
 geod-l-g-r-n-l-t.myonlineportal.ch
 geralnewlong.com
 get-basvrru-yap.cfd
@@ -8998,6 +9005,7 @@ kmsrgoalamyapalimkmhmnamt.com
 knaklanlktana.net
 knowfa.com
 knowvin.com
+kobibilgi.click
 kobihaberleri.click
 kobihaberleri.com
 kobiyardimerkezi.com
@@ -9149,6 +9157,7 @@ lintoraapp.store
 lintorahq.site
 lintorahubs.store
 lionsdenclub.co
+lireyd-ofiyp-gre-nade.myonlineportal.ch
 live-sportsnews.com
 liveheadline.sbs
 livemicrosft.com
@@ -9160,6 +9169,7 @@ lkfa.top
 lkkredi.cfd
 lkrediler.cfd
 lndiriimeglidici.shop
+lndirim-marketbilgi.com
 lo155polisi.online
 load-craft.com
 localgallery.cyou
@@ -9880,6 +9890,7 @@ parolas.click
 parvexa.shop
 parvexa.site
 parvexa.store
+parzama.duckdns.org
 patent-harc-govtrr.site
 patentharc-resmigov-trr.site
 payislemmerkezlerin.com
@@ -10038,6 +10049,7 @@ pteguc.click
 ptk2.xyz
 ptrei.com
 ptt-avm-bireysel-sepetim.com
+ptt.sepetimhizlisatinal.com
 pttavm-arackilometresorgulama.web.app
 pttavm-bireysel.com
 pttavm-bireyselonline.com
@@ -10538,6 +10550,7 @@ sh.azurestaticprovider.net
 shadowlocker.bond
 shadowreaper.pro
 sharemax.best
+sharing-weblooks-394039902939console-39940030broker.mos.ap-southeast-2.sufybkt.com
 sharpbrief.world
 sheredwe.shop
 shop-tr-online-mobil.sbs
@@ -10578,6 +10591,7 @@ siteinfo.shop
 sitemegit.cfd
 sitemegit.click
 sitesaddsacve.nicepage.io
+siteyegelgel.cfd
 sizekampanya-tr.store
 sizeozelfirsatlar00001.duckdns.org
 sizilebiztalebekranlari.duckdns.org
@@ -11197,6 +11211,7 @@ talvoro.store
 tamelux.com
 tamsioaldi.com
 taphzmet.store
+taprndbshuzmerb.online
 taprndbshuzmerb.store
 taprndvhziusmebtudf.com
 taprnfbvsudhzusd.online
@@ -11495,6 +11510,7 @@ tr.randevurehberin.it.com
 tr42-guncelsikaytler.sbs
 tr44-guncelsikaytler.sbs
 track-br-gre-nadetweb.myonlineportal.ch
+trackingservice.monday.com
 tradebeam.shop
 tradelio.gifts
 trafficmanagerupdate.com
@@ -11553,6 +11569,7 @@ tryclorenta.site
 tryclorenta.store
 tsacsacgassax1.cfd
 tsaxahgsfgsafsax.cfd
+tssoxsadgsahdasad.cfd
 tt33300003033.duckdns.org
 ttkpqa.buzz
 ttooakcanosac.xyz
@@ -12061,6 +12078,7 @@ yurttici-kargo.com
 yutnckaoneca.cfd
 yutngjg3434.click
 yutoosacan.duckdns.org
+yutorsacankacan.duckdns.org
 yuzbir-firsatlari.shop
 yuzdeyuzgarantideyiz.vip
 yy000011011.duckdns.org
