@@ -8218,6 +8218,7 @@ girs-onlne-aktiff.sbs
 girsgelsmesocnu.sbs
 girsisonnlneslemleriniz.sbs
 girss-turrky.cfd
+girssonnline-sorgusualekrani.sbs
 git-basvuruyapv.cfd
 git-service.com
 git-tanstack.com
@@ -8280,10 +8281,12 @@ guideib.com
 guidelin.com
 gumrukurunleri101.com
 gumrukurunleriaa101a.sbs
+gunbirlikveberaberlikgunudur.sbs
 guncelanalizmerkezi.com
 guncelbasvurularimobilde.sbs
 gunceldunyahaber.com
 guncelgarantimerkezcozumislemleri.online
+guncelgidisbilglisi.sbs
 guncelgundemplatform.com
 guncelhaberaktif.com
 guncelhaberfan.com
@@ -8909,6 +8912,7 @@ istltnesac.com
 istmkbfdhsdfc.com
 istmknvcbnxcvb.com
 istmoparacsorgu.online
+istmstets.click
 istpalenkova.xyz
 istsenben.xyz
 ivozt.com
@@ -8922,6 +8926,7 @@ izkaoodps.blogspot.com
 izkooogoddd444.blogspot.com
 izlaopqds.duckdns.org
 izlaowqooaa.blogspot.com
+izlasfqwrs.blogspot.com
 izlatqwrwq.blogspot.com
 izlcnd.duckdns.org
 izlcnn.duckdns.org
@@ -10144,6 +10149,7 @@ parzoama.duckdns.org
 patent-harc-govtrr.site
 patentharc-resmigov-trr.site
 pathfindd.click
+patrosnuzs.com
 payislemmerkezlerin.com
 payloads.tralalarkefe.com
 payment-tr.sbs
@@ -10842,6 +10848,7 @@ simdilikyaninageldi.com
 simdilikyanindaburda.com
 sinaloacarte.cfd
 sinerg-kat-list.myonlineportal.ch
+sinirlikampanyalar.blogspot.com
 sinterfumesco.com
 siparis-iade.com
 siparis-magazasi.com
