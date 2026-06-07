@@ -65,7 +65,14 @@ def test_fetch_usom_data():
         try:
             with open(output_file, "w", encoding="utf-8") as f:
                 for item in sorted(combined_indicators):
-                    f.write(f"{item}\n")
+                    # Eğer item bir IP adresi DEĞİLSE (nokta barındırıyor ama harf de içeriyorsa domaindir)
+                    # Veya daha garanti bir yöntem: USOM API'sinden gelen veride IP formatında olmayanlar için:
+                    if any(c.isalpha() for c in item) and not item.startswith("||"):
+                        # Domain ise ABP formatına çevir
+                        f.write(f"||{item}^\n")
+                    else:
+                        # IP adresi ise olduğu gibi yaz (veya zaten formatlıysa dokunma)
+                        f.write(f"{item}\n")
             print(f"\n[SUCCESS] Added {total_new_added} new items. Total items: {len(combined_indicators)}")
         except Exception as e:
             print(f"File write error: {e}")
