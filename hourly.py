@@ -1,12 +1,31 @@
 import urllib.request
 import json
 import os
+import time
+import ipaddress
 
 def load_existing_indicators(file_path):
+    """Mevcut dosyayı okur, ABP format sembollerini temizleyerek temiz küme döner."""
     if not os.path.exists(file_path):
         return set()
+    indicators = set()
     with open(file_path, "r", encoding="utf-8") as f:
-        return {line.strip() for line in f if line.strip()}
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            # Başındaki || ve sonundaki ^ işaretlerini temizleyip ham halini hafızaya alıyoruz
+            cleaned = line.lstrip('|').rstrip('^')
+            indicators.add(cleaned)
+    return indicators
+
+def is_ip_address(string):
+    """Verilen string ifadenin geçerli bir IPv4 veya IPv6 olup olmadığını kontrol eder."""
+    try:
+        ipaddress.ip_address(string)
+        return True
+    except ValueError:
+        return False
 
 def test_fetch_usom_data():
     output_file = "usom-hourly.txt"
@@ -18,7 +37,7 @@ def test_fetch_usom_data():
     headers = {'User-Agent': 'Mozilla/5.0'}
     
     total_new_added = 0
-    MAX_TEST_PAGES = 300 # Sayfa Limiti
+    MAX_TEST_PAGES = 300  # İhtiyaca göre sayfa limiti
     
     for data_type in target_types:
         try:
@@ -54,25 +73,28 @@ def test_fetch_usom_data():
                                 total_new_added += 1
                                 page_has_new_data = True
                     
+                    # Optimizasyon Tetikleyicisi:
+                    # Sayfadaki tüm veriler zaten eskiyse döngü kırılır.
                     if not page_has_new_data and len(existing_indicators) > 0:
                         print(f"-> Optimization hit at page {i}. Stopping.")
                         break
+                
+                # USOM Sunucularını yormamak ve banlanmamak için 0.2 saniye bekleme
+                time.sleep(0.2)
                         
         except Exception as e:
             print(f"Error ({data_type}): {e}")
             
+    # Dosyaya yazma aşaması
     if total_new_added > 0:
         try:
             with open(output_file, "w", encoding="utf-8") as f:
                 for item in sorted(combined_indicators):
-                    # Eğer item bir IP adresi DEĞİLSE (nokta barındırıyor ama harf de içeriyorsa domaindir)
-                    # Veya daha garanti bir yöntem: USOM API'sinden gelen veride IP formatında olmayanlar için:
-                    if any(c.isalpha() for c in item) and not item.startswith("||"):
-                        # Domain ise ABP formatına çevir
-                        f.write(f"||{item}^\n")
+                    # Tam doğruluk için ipaddress kontrolü yapıyoruz
+                    if is_ip_address(item):
+                        f.write(f"{item}\n")  # IP adresi ise düz yaz
                     else:
-                        # IP adresi ise olduğu gibi yaz (veya zaten formatlıysa dokunma)
-                        f.write(f"{item}\n")
+                        f.write(f"||{item}^\n") # Domain ise ABP formatında yaz
             print(f"\n[SUCCESS] Added {total_new_added} new items. Total items: {len(combined_indicators)}")
         except Exception as e:
             print(f"File write error: {e}")
