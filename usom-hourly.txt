@@ -9382,6 +9382,7 @@
 ||koudd.top^
 ||kouseh.site^
 ||koveytt.duckdns.org^
+||koveytturk.duckdns.org^
 ||kozlrmszbrdpylsyrz.xyz^
 ||kq7x2pvm4r.cfd^
 ||kracahom.click^
@@ -11158,6 +11159,7 @@
 ||sozlesme.islem-hizmet.com^
 ||sozlesmepolice.com^
 ||sozlesmepolice.org^
+||sozlesmepoliceniz.sbs^
 ||sozlesmepolicesi.org^
 ||spacekeep.online^
 ||sparkwish.gifts^
