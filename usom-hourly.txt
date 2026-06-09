@@ -6400,10 +6400,12 @@
 ||a1o1aldn.duckdns.org^
 ||a1o1alsn.duckdns.org^
 ||a1o1bayram.duckdns.org^
+||a1o1br.duckdns.org^
 ||a1o1burasi.duckdns.org^
 ||a1o1cay.duckdns.org^
 ||a1o1caydanl.duckdns.org^
 ||a1o1de.blogspot.com^
+||a1o1ekstra.duckdns.org^
 ||a1o1firnisanfirsatlbtry.blogdns.com^
 ||a1o1firnisanfirsatlnisb.blogdns.com^
 ||a1o1firnisanfirstlanistr.blogdns.com^
@@ -6774,6 +6776,7 @@
 ||b-investt.com^
 ||b43v23h234.sbs^
 ||b85230d8.sibforms.com^
+||baasvur-yaap.cfd^
 ||babasananolmusbaba.dns.navy^
 ||babychurchdenim.com^
 ||back-swift.cn.com^
@@ -6812,6 +6815,7 @@
 ||basvursendes.com.tr^
 ||basvursendez.com.tr^
 ||basvursendez.sbs^
+||basvursendmr.sbs^
 ||basvursendn.sbs^
 ||basvursends.com.tr^
 ||basvursendsz.com.tr^
@@ -7253,6 +7257,8 @@
 ||bn0b1cvb0c2s2.duckdns.org^
 ||bn23fddnd3.sbs^
 ||bnc001bsv032d.duckdns.org^
+||bnc666161616001.duckdns.org^
+||bnc7777091991.duckdns.org^
 ||bnc99000012026.duckdns.org^
 ||bncx2026xx147.duckdns.org^
 ||bngfse.click^
@@ -8650,6 +8656,7 @@
 ||hashfashfsahfa.com^
 ||hasntahizfafamar.cfd^
 ||hasntahizmar.cfd^
+||hasolanalsa.co^
 ||hastanegunlerim.cfd^
 ||hastaneisleriogren.cfd^
 ||hastanekontrologrenmesi.cfd^
@@ -8662,6 +8669,7 @@
 ||hatradaoyasmakdegldknbus456363.click^
 ||haulmaster.bond^
 ||havenaura.click^
+||hayalindegelenleryaninda.com^
 ||hayatguzelseninle.store^
 ||hayatseninleguzel.store^
 ||haydasitems123.co^
@@ -9693,6 +9701,8 @@
 ||lppppsrppp.xyz^
 ||lprdanprodansasdas2.sbs^
 ||lqocyl.buzz^
+||lrdanlrdansnkzlerden.shop^
+||lrdanlrdansnkzlerden.xyz^
 ||lrdanordansandangf.click^
 ||lrdansandanbrdan.club^
 ||lrdansandanbrdan.shop^
@@ -11891,6 +11901,7 @@
 ||tavexo.online^
 ||tavnul.netlify.app^
 ||tavqulomarix.shop^
+||tbasvurf.nicepage.io^
 ||tbasvuru-tnoktasi-com-tr.cfd^
 ||tbbmiletisimekrani.sbs^
 ||tbsaxashfdsasf.sbs^
@@ -12353,6 +12364,7 @@
 ||tuvturk-rov.com^
 ||tuvturk-wir.com^
 ||tuvturk-xxk.com^
+||tuvturkerps.com^
 ||tuvturkespr.com^
 ||tuvturkeyrs.com^
 ||tuvturkeysz.com^
