@@ -6415,6 +6415,7 @@
 ||a1o1hazirankampanya.blogspot.com^
 ||a1o1indirim.blogspot.com^
 ||a1o1kampanyalar.duckdns.org^
+||a1o1kampanyalarii.duckdns.org^
 ||a1o1karcafirsabaatrp.blogspot.com^
 ||a1o1korkmazfirsatlari.blogspot.com^
 ||a1o1korkmazkampanya.blogspot.com^
@@ -6641,6 +6642,7 @@
 ||artsselection.com^
 ||arzumarashas.xyz^
 ||arzumforge.xyz^
+||arzumindirima.com^
 ||arzumindirimleri.com^
 ||arzumlindirim.com^
 ||arzumnova.xyz^
@@ -6797,6 +6799,7 @@
 ||basvru-merkkzei.cfd^
 ||basvrumerkezniz.cfd^
 ||basvumerksd.nicepage.io^
+||basvur.myonlineportal.de^
 ||basvurbizlkelerle.sbs^
 ||basvurhemenkapinda.cfd^
 ||basvurlarabasladi.cloud^
@@ -6826,6 +6829,7 @@
 ||basvurtamamlana.cloud^
 ||basvuru-girisi-gvbg.cfd^
 ||basvuru-kampanya.myonlineportal.de^
+||basvuru.myonlineportal.de^
 ||basvuruadresima.cloud^
 ||basvuruinternettalepleri.duckdns.org^
 ||basvurularbaslasdir.cloud^
@@ -8850,6 +8854,7 @@
 ||hlrsrandevugrs.cfd^
 ||hlssistlnbsvr.com^
 ||hmbceza.net^
+||hmenkanlsata.net^
 ||hmnistbsvlralms.com^
 ||hmujqf.buzz^
 ||hnezkh.help^
@@ -9518,6 +9523,7 @@
 ||kredi-basvur-online.sbs^
 ||kredi-basvuru-online.lat^
 ||kredi-basvuru-online.sbs^
+||kredi-basvuru-portal.sbs^
 ||kredi-merkezison.com^
 ||kredi-online-islem.lat^
 ||kredi-online-islem.sbs^
@@ -9688,6 +9694,8 @@
 ||lprdanprodansasdas2.sbs^
 ||lqocyl.buzz^
 ||lrdanordansandangf.click^
+||lrdansandanbrdan.club^
+||lrdansandanbrdan.shop^
 ||lrdansandands.shop^
 ||lrlzlu.cc^
 ||lsbnkdijisube.xyz^
@@ -10009,6 +10017,7 @@
 ||mmhrrksl.com^
 ||mmisjr.cc^
 ||mmny77ghf3223.duckdns.org^
+||mnrsbnlrncanykr.shop^
 ||mobiildeislemlerim.duckdns.org^
 ||mobil-katlimfirsatim.duckdns.org^
 ||mobil-obilet.org^
@@ -11243,6 +11252,7 @@
 ||sndebukmpyalardanfaydlan.com^
 ||snrlsaydcakm.cfd^
 ||snrlsayocadaoneaca.cfd^
+||snrox020x231.gleeze.com^
 ||soadlakadsa.shop^
 ||sobolebumkin.sbs^
 ||soccersquidwing.com^
@@ -12215,6 +12225,7 @@
 ||tregmkurum.org^
 ||trehlub.com^
 ||trelvionix.com^
+||tremobillgrnlidijitalmenu.xyz^
 ||trendbeat.world^
 ||trendcast.media^
 ||trendfrontline.online^
