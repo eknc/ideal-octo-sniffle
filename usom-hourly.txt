@@ -6406,6 +6406,7 @@
 ||a1o1caydanl.duckdns.org^
 ||a1o1de.blogspot.com^
 ||a1o1ekstra.duckdns.org^
+||a1o1ekstrac.duckdns.org^
 ||a1o1firnisanfirsatlbtry.blogdns.com^
 ||a1o1firnisanfirsatlnisb.blogdns.com^
 ||a1o1firnisanfirstlanistr.blogdns.com^
@@ -7527,6 +7528,7 @@
 ||carderyakuptv.click^
 ||carefesfas.duckdns.org^
 ||careffuoersa.com^
+||careffuoersa.vercel.app^
 ||carepilotx.com^
 ||cargozent.com^
 ||caribb.ru^
@@ -7753,6 +7755,7 @@
 ||designly.gifts^
 ||designnest.gifts^
 ||desirosex.net^
+||desisdtro.net^
 ||deskvakfi.com^
 ||destek-edevlet.com^
 ||destek-edevlet.net^
@@ -8869,6 +8872,7 @@
 ||hngfbgfbfb.cyou^
 ||hokesya.xyz^
 ||holdeferete.hicam.net^
+||holkbankasi243434.duckdns.org^
 ||homejetkertrs.duckdns.org^
 ||homeorbitx.com^
 ||homiun.live^
@@ -9316,6 +9320,7 @@
 ||kapiskara.lat^
 ||karac.shop^
 ||karaca-burada.vercel.app^
+||karaca-indirimgunu.vercel.app^
 ||karaca-mayis.vercel.app^
 ||karaca-mode.shop^
 ||karaca-modes.shop^
@@ -12079,6 +12084,7 @@
 ||tekrardan.arakampanyalardonem.cloud^
 ||teksicse.net^
 ||tektikileelindee.me^
+||tektikilesendeolsun.com^
 ||tektiklasenindeolsun.com^
 ||tektokatsiniz.lat^
 ||tekyolburadadn.sbs^
