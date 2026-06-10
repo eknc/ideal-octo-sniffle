@@ -630,6 +630,7 @@
 119.45.176.196
 119.91.19.185
 119.91.42.53
+||119930984165.duckdns.org^
 ||11canistassiparislerin.cloud^
 ||11lll23x232.duckdns.org^
 ||11tariksdans.nicepage.io^
@@ -3329,6 +3330,7 @@
 202.95.8.47
 ||2026-online-notice.cfd^
 ||2026000010101002.duckdns.org^
+||2026000102001.duckdns.org^
 203.107.32.162
 203.107.40.49
 203.131.215.35
@@ -6620,6 +6622,7 @@
 ||anadoluajanslari.com^
 ||anadolubilgibulten.com^
 ||anadolubilgiplatform.com^
+||anadolugozlem.com^
 ||anadolumahkeme.org^
 ||anadolusync.com^
 ||anadolutrend.com^
@@ -7433,6 +7436,7 @@
 ||bsvrrfrstlarrmerkziiprmsynn.live^
 ||bsvrrfrstlarrrrkmpnyaabsvrr.art^
 ||bsvrrfrstlarrrrkmpnyaabsvrr.live^
+||bsvrrkmpnyyyprmsnynnfrstlar.art^
 ||bsvrrkmpnyyyprmsnynnfrstlar.click^
 ||bsvrrkmpnyyyprmsnynnfrstlar.info^
 ||bsvrrkmpnyyyprmsnynnfrstlar.live^
@@ -7466,6 +7470,7 @@
 ||buhugereteyesede.lat^
 ||buhukulupolisede.lat^
 ||buklifgerttesede.lat^
+||bukugufuerese.xyz^
 ||buldumdenburdaartuk67.click^
 ||bulduretede.lat^
 ||bulkore.shop^
@@ -7738,6 +7743,7 @@
 ||colnsdital.com^
 ||colour-chess-seal-chem.trycloudflare.com^
 ||com-apps.cc^
+||com-qnbfinansbank.ph^
 ||comedyworld.lol^
 ||compassionfanghole.com^
 ||compiler-taorde.com^
@@ -7764,6 +7770,7 @@
 ||cosmic-nebula.cc^
 ||costislandkeyboard.com^
 ||cougarhookjaw.com^
+||courtneyhambat.online^
 ||cozycandles.gifts^
 ||cp-is-statik.myonlineportal.ch^
 ||cp.dene.de.com^
@@ -7810,6 +7817,7 @@
 ||dailyrix.info^
 ||dailysignal.buzz^
 ||dailyvista.world^
+||dailyyn.com^
 ||dakatawebstick.com^
 ||dalvico.shop^
 ||dalvico.site^
@@ -8062,6 +8070,7 @@
 ||efsxibnsk.gleeze.com^
 ||egebek.com.tr^
 ||egiiris-on.cfd^
+||egiiris-onn.cfd^
 ||egmbirim.net^
 ||egmcezaportal.net^
 ||egmdosya.net^
@@ -8720,6 +8729,7 @@
 ||haberler145.shop^
 ||haberler2026xl.com^
 ||haberler365guncel.com^
+||haberler47823.shop^
 ||haberler554.shop^
 ||haberlercihazlar.com^
 ||haberlerdiyarirtrv.sludgy.cfd^
@@ -8757,6 +8767,7 @@
 ||hakkc4b1enb1yemenedneb.life^
 ||haksizfil.cfd^
 ||halkbankfinansal.click^
+||halkbankparam.com.ph^
 ||halkbilgialani.com^
 ||halkbilgiplatform.com^
 ||halkduyurum2221.duckdns.org^
@@ -8882,6 +8893,7 @@
 ||herseyherkezgusecelyenguncel65.info^
 ||herseysznlegzzel.sbs^
 ||herzaman-buralardayiz.vercel.app^
+||hesapguvenlik.com^
 ||hesapli.o-bilet.eu^
 ||hettinger.shop^
 ||hewvex.click^
@@ -9148,6 +9160,7 @@
 ||infoyatirimenkul.com^
 ||infra-telemetry.com^
 ||infrastru.digital^
+||ingbank-mobilsube.ph^
 ||inghnerstrength.info^
 ||ingredients-mines-explicitly-regarded.trycloudflare.com^
 ||insbuild.digital^
@@ -9425,6 +9438,7 @@
 ||kadikoy-vitrini.shop^
 ||kafaneroskzu.com^
 ||kahpenevltlar.com^
+||kahveix.com^
 ||kali365.xyz^
 ||kaliteyeyakinsiniz.com^
 ||kalithra.shop^
@@ -9669,6 +9683,7 @@
 ||kommando.live^
 ||kondromalazi.lat^
 ||kontrolpanel3541.com^
+||konuriskalmaksa.click^
 ||koralansakadar.co^
 ||korlinnnimmir.com^
 ||korovkamu.com^
@@ -9684,6 +9699,7 @@
 ||koveytt.duckdns.org^
 ||koveytturk.duckdns.org^
 ||koveytturkumre.duckdns.org^
+||koveytturkumreseyehat.duckdns.org^
 ||kozlrmszbrdpylsyrz.xyz^
 ||kq7x2pvm4r.cfd^
 ||kracahom.click^
@@ -10794,6 +10810,7 @@
 ||prb.coinsecimi.com^
 ||prb202600001.duckdns.org^
 ||prbonlnebsvurulartr.com^
+||prdanbrdansnlrdan.shop^
 ||prdnbrdclsyzvrnmyndf.biz^
 ||prdnbrdyzgnvrfdgscc.click^
 ||predatomaise.top^
@@ -10941,7 +10958,9 @@
 ||qilavornexo.shop^
 ||qjywvkbl.degassing-mould.digital^
 ||qnb-finansbank-dynamic.vercel.app^
+||qnb-finansbankr-enpara.ph^
 ||qnbfinansbank-inc.ph^
+||qnbfinansbankkasa.ph^
 ||qnbfinasnbankenpara.ph^
 ||qomzarek.site^
 ||qrlwkemail.garantibbvakredibasvuru.com^
@@ -11340,6 +11359,7 @@
 ||sendeburadahepkalbizle.com^
 ||sendegarantlolsendekazan80.click^
 ||sendegartnbuldahsel252.click^
+||sendenkorkmuyorum1.vip^
 ||senderbaba.duckdns.org^
 ||seninisinle.sbs^
 ||seninle.kampanyaboyunca.cloud^
@@ -12295,6 +12315,7 @@
 ||teknofestmagaza.wixsite.com^
 ||teknofestmagaza.wixstudio.com^
 ||teknofestmagaza.zone.id^
+||teknolojikampanya.com^
 ||tekrardan.arakampanyalardonem.cloud^
 ||teksicse.net^
 ||tektikileelindee.me^
@@ -12392,6 +12413,7 @@
 ||toggsiparis.com^
 ||tok-asd.click^
 ||tokitoki.tech^
+||tokraftokasfasax.xyz^
 ||tol-liber-oreal.myonlineportal.ch^
 ||tom-basvraidt.duckdns.org^
 ||tombnkbsvr.duckdns.org^
@@ -12482,6 +12504,7 @@
 ||trendyolltd.vip^
 ||trisletimgarantiguncelportal.duckdns.org^
 ||trivanoxel.com^
+||trizcom.cfd^
 ||trkamusorgu.org^
 ||trkasaldcc.nicepage.io^
 ||trkydesnzmanlrdabrdaclsyrz.shop^
@@ -12899,6 +12922,7 @@
 ||www-ing-com-tr.nproxy.org^
 ||www-l55polisi.online^
 ||www-polisi155.online^
+||www-qnbfinansbank-yenilenen-subem.ph^
 ||www.drivelivelime.com^
 ||www155-polisi.online^
 ||wwwbilgilendirmeniz.revise.sbs^
