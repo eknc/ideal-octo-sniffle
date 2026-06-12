@@ -6461,6 +6461,7 @@
 ||a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online^
 ||a-101-de-extra-sponsor-mobil-tr.online-bireysel-mobil-tr.click^
 ||a-101-de-sadece-extra-bugune-ozel-indirimli-siparis-tr.onlinecep-tr.site^
+||a-101-extra-mobil-online-ozel-tr.mobil-bireysel-shop-web-tr.sbs^
 ||a-101-extra-mobil-sadece-online-ozel-siparis-tr.online-mobil-shop-tr.com^
 ||a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site^
 ||a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click^
@@ -6555,6 +6556,7 @@
 ||acceptable-use-policy-calendly.de^
 ||acctune.com^
 ||accuratef.icu^
+||acentabayitursab.top^
 ||aceritop.com^
 ||acikekranbasvurulari.sbs^
 ||acikliyabilriim.blogspot.com^
@@ -7994,6 +7996,7 @@
 ||dears.serveirc.com^
 ||debateom.com^
 ||debateyn.com^
+||december-humans-blend-word.trycloudflare.com^
 ||declaration.linkpc.net^
 ||decosline.com^
 ||dedelin.lol^
@@ -9734,6 +9737,7 @@
 ||kapisbusinnes.click^
 ||kapisigov.icu^
 ||kapiskara.lat^
+||kapsmuh.com^
 ||karac.shop^
 ||karaca-burada.vercel.app^
 ||karaca-indirimde.vercel.app^
@@ -10038,6 +10042,7 @@
 ||kuveyt-turk-umre.duckdns.org^
 ||kuveytbasvuru.rf.gd^
 ||kuveytturk-umree.duckdns.org^
+||kuveytturkresmi.duckdns.org^
 ||kuveytturks.duckdns.org^
 ||kuveytturkyatirim.ph^
 ||kuveytumre.online^
@@ -10607,6 +10612,7 @@
 ||mukulupolisede.lat^
 ||muligipoliteresedese.xyz^
 ||mulukilopilede.lat^
+||mumgidesaccvere.xyz^
 ||mundial2026.click^
 ||murdabro.duckdns.org^
 ||musicpath.gifts^
@@ -11746,6 +11752,7 @@
 ||seninisinle.sbs^
 ||seninle.kampanyaboyunca.cloud^
 ||sepet-alisveris.com^
+||sepet-odemesi-1985.com^
 ||sepetetikla.online^
 ||sepetguvende.online^
 ||sepetimdeindirimleriyakala.com^
@@ -12825,6 +12832,7 @@
 ||toggsiparisi.com^
 ||togsiparis.com^
 ||tok-asd.click^
+||tokisatis.duckdns.org^
 ||tokitoki.tech^
 ||tokraftokasfasax.xyz^
 ||tol-liber-oreal.myonlineportal.ch^
@@ -13014,6 +13022,7 @@
 ||turkiyegundemalani.com^
 ||turkiyegundemplatform.com^
 ||turkiyemailservicepro.com^
+||turkiyemerkezbankasi.site^
 ||turkiyenexus.com^
 ||turkiyepetrl.com^
 ||turkiyepetrolleri-system.com^
