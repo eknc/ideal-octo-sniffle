@@ -72,6 +72,7 @@
 ||101indirimfirsati.site^
 ||101kereonline.shop^
 ||101onlinemerkezlersistem.pages.dev^
+||101satislar.click^
 ||101sepetindirimleri.xyz^
 ||101sonbrdandrim.com^
 102.117.170.1
@@ -9743,6 +9744,8 @@
 ||kmkmsorgulamagovpttdonerbicagi.duckdns.org^
 ||kmkmsorgulamagovvpttazerblbl.duckdns.org^
 ||kmpnyaaabsvrrrprmsynnn.info^
+||kmpnyaaaprmsynnbsvrrrfrstlr.site^
+||kmpnyaaaprmsynnbsvrrrfrstlr.xyz^
 ||kmpnyaabsvrrfrstlarrrrbsvrr.art^
 ||kmpnyaabsvrrfrstlarrrrbsvrr.live^
 ||kmpnyaasnnnfrsattlrrrbsvrr.art^
