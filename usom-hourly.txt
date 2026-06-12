@@ -5079,6 +5079,7 @@
 57.129.51.86
 57.69.19.70
 ||5764352.net^
+||576465345.net^
 58.144.143.27
 58.152.186.135
 58.19.11.97
@@ -6492,6 +6493,7 @@
 ||a1o1aktuel.blogspot.com^
 ||a1o1aktuel.duckdns.org^
 ||a1o1aldin.duckdns.org^
+||a1o1aldinfirsatlarisi.duckdns.org^
 ||a1o1aldinsimdi.duckdns.org^
 ||a1o1aldn.duckdns.org^
 ||a1o1alhemen.duckdns.org^
@@ -6604,8 +6606,10 @@
 ||ajhuy39393.click^
 ||ak-mobilislemlerinizicintektikla-ak.duckdns.org^
 ||akaycicekcilik.com.tr^
+||akbank-com.ph^
 ||akbank-invest-hub.sbs^
 ||akbankinvest.com^
+||akbankk-bireysell.ph^
 ||akbasvurumobil.duckdns.org^
 ||akbiadekampanya2025.click^
 ||akbireyselislemkanali.duckdns.org^
@@ -7428,6 +7432,7 @@
 ||blackseashield.w-staticblitz.com^
 ||blackseashield.wixsite.com^
 ||blackseashield.zone.id^
+||blamastikseveriz.click^
 ||blanketsmoke.com^
 ||blazora.shop^
 ||blazora.site^
@@ -7754,6 +7759,7 @@
 ||catalystfluxd.info^
 ||catchall1.tralalarkefe.com^
 ||catsica.shop^
+||caurforaedddal.click^
 ||cauterizespray.icu^
 ||cay-makinesi-aktuel.lat^
 ||cay-paketi-al0l.xyz^
@@ -7874,6 +7880,7 @@
 ||coralveiltyd.pro^
 ||corefluxd.pro^
 ||corelith.vip^
+||corelyx.vu^
 ||corendonkemer.com^
 ||corephylli.pro^
 ||corevanter.info^
@@ -8251,6 +8258,7 @@
 ||ekonomifikirleri.com^
 ||ekonomikmarketler.click^
 ||ekraninizzgirisoanysorogren.sbs^
+||ekraninizzonayy-kontrol.sbs^
 ||ekspres.obilet-www.online^
 ||ekstramarket.duckdns.org^
 ||ekstraramrket.duckdns.org^
@@ -8299,6 +8307,8 @@
 ||enbuyukindirimdunyasi2.sbs^
 ||englishhome-sinirlistok.lat^
 ||enhizlikampanyayagir.com^
+||enpara---qnbfinansbank.ph^
+||enpara-onlinesube-com-tr.ph^
 ||enparamobil.wqdasdwq1.cfd^
 ||enparamobil.wqecaadfqra.cfd^
 ||enparamobil.wqedaswqra.cfd^
@@ -8325,6 +8335,7 @@
 ||equinoxpanda.com^
 ||equityycraft.com^
 ||erdsecsoakemecsa.shop^
+||eredesaweresede.xyz^
 ||erenaslankraldisr.site^
 ||erenlebrdacalsyrzken.xyz^
 ||ernexis.site^
@@ -8579,6 +8590,8 @@
 ||garabcanx.gleeze.com^
 ||garaburasibasvurusu.duckdns.org^
 ||garanti-acc.myonlineportal.ch^
+||garanti-bank-bireysel.ph^
+||garanti-bankasionline.ph^
 ||garanti-subesi-giris.ph^
 ||garanti.bb.va-tr.com^
 ||garanti45465456465465.duckdns.org^
@@ -8588,6 +8601,7 @@
 ||garantibbvapromosyon.com^
 ||garantibbvayayatinemom.com^
 ||garanticepbbvaislemleri.duckdns.org^
+||garanticepsubem-com.ph^
 ||garantigaranti.pzbsin.com^
 ||garantili2026.duckdns.org^
 ||garantilisin.duckdns.org^
@@ -9055,6 +9069,7 @@
 ||hemengelenekranlarburada.duckdns.org^
 ||hemengir.lol^
 ||hemenhizliislemn.net^
+||hemenhizlisnoclsm.net^
 ||hemeniaslmenasn.net^
 ||hemeniasnltamsan.net^
 ||hemenislemana.net^
@@ -9221,6 +9236,7 @@
 ||hmbceza.net^
 ||hmenkanlsata.net^
 ||hmenlnkarsan.net^
+||hmnislemnktans.net^
 ||hmnistbsvlralms.com^
 ||hmnknlrnasn.net^
 ||hmnkntlnsanant.net^
@@ -10006,6 +10022,7 @@
 ||kubaonlinesatis.com^
 ||kufar.org^
 ||kufsen.netlify.app^
+||kuluhugudefere.xyz^
 ||kumbara.iyiliginmucitleri.com^
 ||kunnvffeyt.giize.com^
 ||kurban-bayrami-promosyonu-akmobil.duckdns.org^
@@ -10020,6 +10037,8 @@
 ||kuveyt-turk-seyehat.duckdns.org^
 ||kuveyt-turk-umre.duckdns.org^
 ||kuveytbasvuru.rf.gd^
+||kuveytturk-umree.duckdns.org^
+||kuveytturks.duckdns.org^
 ||kuveytturkyatirim.ph^
 ||kuveytumre.online^
 ||kuvuytilebizlrlee.online^
@@ -10525,6 +10544,7 @@
 ||mobildijitalfirsatlar.sbs^
 ||mobile-karaca.vercel.app^
 ||mobile-obilet.uk^
+||mobile-qnbfinansbank.ph^
 ||mobilekranlardakayitlar.duckdns.org^
 ||mobilfirsatbbvagar.duckdns.org^
 ||mobilfirsatimburada.xyz^
@@ -10836,6 +10856,7 @@
 ||onem-loft-sofisgrn.myonlineportal.ch^
 ||onlaynsorogrenmeekran.sbs^
 ||online-182.com^
+||online-182.life^
 ||online-aktiflerin-sepet.pro^
 ||online-aninda-hizmet.com^
 ||online-hizmet-islemi.com^
@@ -11292,10 +11313,13 @@
 ||qnb-finansbank-dynamic.vercel.app^
 ||qnb-finansbankasionline.ph^
 ||qnb-finansbankr-enpara.ph^
+||qnbfinansbank---giris.ph^
 ||qnbfinansbank-inc.ph^
 ||qnbfinansbank-kampanyakatilim.ph^
 ||qnbfinansbankkasa.ph^
+||qnbfinansbnak.ph^
 ||qnbfinasnbankenpara.ph^
+||qnbsfinansbank-basvuru.ph^
 ||qomzarek.site^
 ||qorvendix.com^
 ||qrlwkemail.garantibbvakredibasvuru.com^
@@ -11645,6 +11669,7 @@
 ||sedgepufftyd.pro^
 ||sefer.obilet.nl^
 ||sefore.netlify.app^
+||sega-ads-territories-appendix.trycloudflare.com^
 ||sektorukapatiyorumkimsereklamacamaztaklaciguvercin.com^
 ||selcukbayraktar.2ix.ch^
 ||selcukbayraktar.4lima.ch^
@@ -11990,6 +12015,7 @@
 ||stinarosen.com^
 ||stmarkhopeandpeace.org^
 ||stnblbsbbvr.lat^
+||stock-arab-flame-hat.trycloudflare.com^
 ||stockib.com^
 ||stockivs.com^
 ||story-vers.xyz^
@@ -12479,6 +12505,7 @@
 ||takimimvampirgibi.click^
 ||takip.shop^
 ||takirtukir.click^
+||takla.click^
 ||taklasin.click^
 ||taklidimduzene.click^
 ||talebekraniscebde.duckdns.org^
@@ -13060,6 +13087,7 @@
 ||uk176video.live^
 ||ukrbezpeka.online^
 ||ukrguard.org^
+||ulkeizleme.com^
 ||ultimatecore.net^
 ||ultimatenewschannel.com^
 ||ululink.click^
@@ -13618,6 +13646,7 @@
 ||zermudak.media^
 ||zero.masscan.cloud^
 ||zerrotmamil.com^
+||zevfesedlipilgiasdere.xyz^
 ||zg5mkr7q.apexharvestor.digital^
 ||zgj1tam9.space^
 ||zhghggffghsax6.lol^
