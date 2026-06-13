@@ -6493,6 +6493,7 @@
 ||a101harca.shop^
 ||a101harcaharcabitmez.duckdns.org^
 ||a101indirimfirsatlarim.xyz^
+||a101kampanyalarii.blogspot.com^
 ||a101yilinfirsatlar.com^
 ||a10firsat.duckdns.org^
 ||a1menkuldegerler.com^
@@ -6501,6 +6502,7 @@
 ||a1o1aldin.duckdns.org^
 ||a1o1aldinfirsatlarisi.duckdns.org^
 ||a1o1aldinsimdi.duckdns.org^
+||a1o1aldinss.duckdns.org^
 ||a1o1aldn.duckdns.org^
 ||a1o1alhemen.duckdns.org^
 ||a1o1alsn.duckdns.org^
@@ -6570,6 +6572,7 @@
 ||acmfilo.com^
 ||acsdaskkckl1l2k3xlkasdas.cfd^
 ||acsdaskkckl1l2k3xlkasdas.cyou^
+||acvigilioplifacada.xyz^
 ||adaletmahkeme.org^
 ||adaybasvurkayit.com.tr^
 ||adceonlaylardaa1o1.duckdns.org^
@@ -6886,6 +6889,7 @@
 ||avis-online-kiralama00.duckdns.org^
 ||avisfilokurumsal.com^
 ||avisfilorent.com^
+||avisfilorental.com^
 ||aviskiralama.duckdns.org^
 ||avisotomobilkiralama.com^
 ||avisrental.fun^
@@ -7299,6 +7303,7 @@
 ||bgnclsyrzbxvrmynb.click^
 ||bgnclsyrzbxvrmynb.sbs^
 ||bgyuy.dynamicsforever.su^
+||bhndfgewrnwernwe.click^
 ||big-proinvest.info^
 ||bigbossbro777.com^
 ||bigdes.site^
@@ -7788,6 +7793,7 @@
 ||cdrfdmrkt.cfd^
 ||cebimdekimobilsubelerim.sbs^
 ||cebinizdekiglobalekran.duckdns.org^
+||cekilis-kampanya.xyz^
 ||cekilis-paribu.com^
 ||cekilis-paribu.online^
 ||cekilisi-paribu.com^
@@ -8378,6 +8384,7 @@
 ||esube.iknmusteri.online^
 ||esubem-tebde-pro.my-homeip.de^
 ||esyataslmasd.com^
+||etebligatkontrol.org^
 ||etiketkbayi.lat^
 ||etiketyuklmeburdan.lat^
 ||etoftheappyrince.org^
@@ -8431,6 +8438,7 @@
 ||fanonlyatn.xyz^
 ||fareluaceze.click^
 ||farkedermi.lol^
+||fas3215fsapstor.click^
 ||fashioncore.digital^
 ||fasos.nicepage.io^
 ||fastbrief.sbs^
@@ -9902,6 +9910,7 @@
 ||kireiu.eu^
 ||kisa-birseyler.cfd^
 ||kisa-links.xyz^
+||kisakisalinkler.vip^
 ||kisalink.lat^
 ||kisaltmalar.site^
 ||kitaprota.com^
@@ -10096,6 +10105,7 @@
 ||kuveyt-turk-umre.duckdns.org^
 ||kuveytbasvuru.rf.gd^
 ||kuveytturk-umree.duckdns.org^
+||kuveytturk-umreseyehatleri.duckdns.org^
 ||kuveytturkmobil.duckdns.org^
 ||kuveytturkresmi.duckdns.org^
 ||kuveytturks.duckdns.org^
@@ -11892,6 +11902,7 @@
 ||showmori.vu^
 ||showthetrick.com^
 ||sicex.lol^
+||sicilmaliye.org^
 ||signalpress.company^
 ||signalpress.world^
 ||signinacessint.com^
@@ -12651,6 +12662,7 @@
 ||tcmahkeme.net^
 ||tcmasakdosya.com^
 ||tcmasakportal.com^
+||tcmasaktr.org^
 ||teb-info.info^
 ||teb-trade.site^
 ||tebdenpromosyon.my-homeip.de^
@@ -13135,6 +13147,7 @@
 ||tursil-cepte.name.tr^
 ||tursil-cepte.web.tr^
 ||tuv-turkk.com^
+||tuvmuayeneturkrandevu.online^
 ||tuvonaylandisistem.xyz^
 ||tuvrandvyukekkeasf.net^
 ||tuvturk-adk.com^
@@ -13468,6 +13481,7 @@
 ||wunzarek.media^
 ||wusetail.com^
 ||www-155polisi.online^
+||www-enpara-qnbfinans-com-tr.ph^
 ||www-fifa.com^
 ||www-fifa.me^
 ||www-fifaworldcup.com^
@@ -13543,9 +13557,11 @@
 ||xn--unutgecmstju-84bb.com^
 ||xn--vakfbank-i80d.com^
 ||xpertlearninghub.com^
+||xsafxacasdasax.cyou^
 ||xsceig.buzz^
 ||xtskxasxasx-xa.cfd^
 ||xx2xa2rew2.duckdns.org^
+||xx3443cccsa23cx.duckdns.org^
 ||xxlljsjj33xz.duckdns.org^
 ||xxtrdenemelerixismenuleriguncel.xyz^
 ||xxxgr40c0c02xx2.duckdns.org^
