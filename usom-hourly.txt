@@ -6923,6 +6923,7 @@
 ||b-investt.com^
 ||b3x8m2k9q6f4n7zha.sbs^
 ||b43v23h234.sbs^
+||b4b422zsed2q.duckdns.org^
 ||b85230d8.sibforms.com^
 ||baasvur-yaap.cfd^
 ||babasananolmusbaba.dns.navy^
@@ -10116,6 +10117,7 @@
 ||kurumsalmediamarkt.com^
 ||kusursuzarackiralama.com^
 ||kuveyt-mobilll.duckdns.org^
+||kuveyt-onlineislemler.duckdns.org^
 ||kuveyt-turk-seyehat.duckdns.org^
 ||kuveyt-turk-umre.duckdns.org^
 ||kuveytbasvuru.rf.gd^
@@ -13199,6 +13201,7 @@
 ||tuvturkkyr.com^
 ||tuvturklsl.digital^
 ||tuvturkobs.com^
+||tuvturkruk.com^
 ||tuvturkyys.com^
 ||tuvuturk-onl-randvuun.click^
 ||tuvv-turkhizlislemler.com^
