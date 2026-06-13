@@ -3292,6 +3292,7 @@
 ||19mayistaadadevam.cloud^
 ||1aktuel.online^
 ||1asdhashdhashd23sadhashd23.click^
+||1basvurunutamamla2.duckdns.org^
 ||1o1aldins.duckdns.org^
 ||1o1firsat.com^
 2.237.57.70
@@ -8338,6 +8339,7 @@
 ||enbuyukindirimdunyasi2.sbs^
 ||englishhome-sinirlistok.lat^
 ||enhizlikampanyayagir.com^
+||eniyifirsatlareniyiurunler.com^
 ||enpara---qnbfinansbank.ph^
 ||enpara-onlinesube-com-tr.ph^
 ||enparabasvur.xyz^
@@ -9259,6 +9261,7 @@
 ||hizlikredi.sbs^
 ||hizlimarketalim.click^
 ||hizlimobilbasvurular.sbs^
+||hizlionaygerekenislerde.com^
 ||hizlirgec.click^
 ||hizlisdbakieyr.online^
 ||hizlisdbakieyr.store^
@@ -10111,10 +10114,12 @@
 ||kurudumprfsnefe43.click^
 ||kurumsalbirkurumsal.click^
 ||kurumsalmediamarkt.com^
+||kusursuzarackiralama.com^
 ||kuveyt-mobilll.duckdns.org^
 ||kuveyt-turk-seyehat.duckdns.org^
 ||kuveyt-turk-umre.duckdns.org^
 ||kuveytbasvuru.rf.gd^
+||kuveytonline-kuveyt.duckdns.org^
 ||kuveytturk-online.duckdns.org^
 ||kuveytturk-umree.duckdns.org^
 ||kuveytturk-umreseyehatleri.duckdns.org^
@@ -10358,8 +10363,10 @@
 ||marvelionstreet.pro^
 ||masadmsad.duckdns.org^
 ||masak2026trlogin.duckdns.org^
+||masakaktivasyon.duckdns.org^
 ||masakbinanceturkiye.duckdns.org^
 ||masakbirim.org^
+||masakbncaktivasyon.duckdns.org^
 ||masakcezaportal.net^
 ||masakdosyamerkez.org^
 ||masakdosyaportal.org^
@@ -10959,6 +10966,7 @@
 ||online-hizmet-islemleriniz.com^
 ||online-kampanyaniz.my-homeip.de^
 ||online-karaca.vercel.app^
+||online-kuveytmobil.duckdns.org^
 ||online-promosyon-basvur.my-homeip.de^
 ||online.empordafibra.com^
 ||online.fbasube.pro^
@@ -13862,6 +13870,7 @@
 ||zz8880000888.duckdns.org^
 ||zz88880008888.duckdns.org^
 ||zz9990000999.duckdns.org^
+||zzasdsacxasasdfa.sbs^
 ||zzshops.top^
 ||zzzxxsadadxasr-tkjk.cyou^
 ||zzzzzzzzzza.cfd^
