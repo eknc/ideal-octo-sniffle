@@ -5845,6 +5845,7 @@
 86.54.24.25
 86.54.42.92
 ||867534243.net^
+||867876456.net^
 87.10.220.221
 87.106.155.7
 87.107.191.39
@@ -6973,6 +6974,7 @@
 ||basvursenv.sbs^
 ||basvursenz.sbs^
 ||basvurtamamlana.cloud^
+||basvuru-cekilis.online^
 ||basvuru-girisi-gvbg.cfd^
 ||basvuru-kampanya.myonlineportal.de^
 ||basvuru.myonlineportal.de^
@@ -7544,6 +7546,9 @@
 ||bsvrrfrstlarrmerkziiprmsynn.live^
 ||bsvrrfrstlarrrrkmpnyaabsvrr.art^
 ||bsvrrfrstlarrrrkmpnyaabsvrr.live^
+||bsvrrkmpnyaaoprssmynn.art^
+||bsvrrkmpnyaaoprssmynn.live^
+||bsvrrkmpnyaaoprssmynn.pro^
 ||bsvrrkmpnyyyprmsnynnfrstlar.art^
 ||bsvrrkmpnyyyprmsnynnfrstlar.click^
 ||bsvrrkmpnyyyprmsnynnfrstlar.info^
@@ -8238,6 +8243,7 @@
 ||egiiris-onn.cfd^
 ||egitimova.com^
 ||egmbirim.net^
+||egmcezam.org^
 ||egmcezaportal.net^
 ||egmdosya.net^
 ||egmkarar.org^
@@ -8773,6 +8779,7 @@
 ||griss-onlnes.cfd^
 ||grnti-firstlr.lol^
 ||grntkrzsrz.com^
+||grntprmsynnkmpnyamkrz.info^
 ||grntttttprmsynbsvrrrr.live^
 ||grntwn.buzz^
 ||groupfiba.org^
@@ -9007,6 +9014,7 @@
 ||hasdasdagsax1.cfd^
 ||hasdasdagsax1.xyz^
 ||hashfashfsahfa.com^
+||hasnmrlhs.online^
 ||hasntahizfafamar.cfd^
 ||hasntahizmar.cfd^
 ||hasolanalsa.co^
@@ -9248,6 +9256,7 @@
 ||hmenkanlsata.net^
 ||hmenlnkarsan.net^
 ||hmnislemnktans.net^
+||hmnislemnktsans.net^
 ||hmnistbsvlralms.com^
 ||hmnknlrnasn.net^
 ||hmnkntlnsanant.net^
@@ -9897,13 +9906,18 @@
 ||kmkmsorgulamagovpttdonerbicagi.duckdns.org^
 ||kmkmsorgulamagovvpttazerblbl.duckdns.org^
 ||kmpnyaaabsvrrrprmsynnn.info^
+||kmpnyaaabsvrrrprmsynnn.live^
+||kmpnyaaabsvrrrprmsynnn.pro^
 ||kmpnyaaaprmsynnbsvrrrfrstlr.click^
+||kmpnyaaaprmsynnbsvrrrfrstlr.info^
+||kmpnyaaaprmsynnbsvrrrfrstlr.live^
 ||kmpnyaaaprmsynnbsvrrrfrstlr.online^
 ||kmpnyaaaprmsynnbsvrrrfrstlr.pro^
 ||kmpnyaaaprmsynnbsvrrrfrstlr.site^
 ||kmpnyaaaprmsynnbsvrrrfrstlr.xyz^
 ||kmpnyaabsvrrfrstlarrrrbsvrr.art^
 ||kmpnyaabsvrrfrstlarrrrbsvrr.live^
+||kmpnyaaemekkliiprmsnyn.live^
 ||kmpnyaasnnnfrsattlrrrbsvrr.art^
 ||kmpnyaasnnnfrsattlrrrbsvrr.live^
 ||kmpnyaasonfirsaattbsvrr.art^
@@ -10130,6 +10144,7 @@
 ||linkacilmiyor.sbs^
 ||linkclock.duckdns.org^
 ||linklerister.click^
+||links-mobile.sbs^
 ||links-sponsor-mobilde-tr.sbs^
 ||links.garantibbvakredibasvuru.com^
 ||linktr.duckdns.org^
@@ -10203,6 +10218,7 @@
 ||lumixin.xyz^
 ||lunavo.vu^
 ||luntra.cyou^
+||lunzeko.tr^
 ||lurox.bond^
 ||lwwwl55polis.online^
 ||lyhpgi.click^
@@ -10549,6 +10565,7 @@
 ||mmny77ghf3223.duckdns.org^
 ||mnrsbnlrncanykr.shop^
 ||mobiildeislemlerim.duckdns.org^
+||mobil-cep-shop-tr.sbs^
 ||mobil-katlimfirsatim.duckdns.org^
 ||mobil-obilet.org^
 ||mobil-obilet.uk^
@@ -10878,6 +10895,7 @@
 ||onedrivesupport.net^
 ||onem-loft-sofisgrn.myonlineportal.ch^
 ||onlaynsorogrenmeekran.sbs^
+||online-182.click^
 ||online-182.com^
 ||online-182.life^
 ||online-182.xyz^
@@ -11225,6 +11243,7 @@
 ||provento.store^
 ||prtkcanocanak.xyz^
 ||pruriticticketpo.pro^
+||psmsynnnkmpnyaaaa.live^
 ||pteguc.click^
 ||ptk2.xyz^
 ||ptksdasfasxa-sa.cfd^
@@ -11314,6 +11333,7 @@
 ||pvasquez-princetonpartners-com-s-account.workers.dev^
 ||pzbsin.com^
 ||pzqpef.click^
+||q73449.click^
 ||q7vxm2t4k.sbs^
 ||qanor.bond^
 ||qavdeli.tr^
@@ -11957,6 +11977,8 @@
 ||sondakkahaberleri724.com^
 ||sondurumunua.b-cdn.net^
 ||sonfirsaattkmpnyaabsvrr.live^
+||sonfrsaattbsvrrrkmpnyaaa.art^
+||sonfrsaattbsvrrrkmpnyaaa.click^
 ||sonfrsaattbsvrrrkmpnyaaa.live^
 ||sonfrstkmpnyabsvrr.pro^
 ||sonfrstkmpnyabsvrr.xyz^
@@ -12541,6 +12563,7 @@
 ||talebekraniscebde.duckdns.org^
 ||talep-ziraatbank.vercel.app^
 ||talepgirisekranim.sbs^
+||talvo-zenix.pro^
 ||talvoro.store^
 ||tamamladim.click^
 ||tamelora.com^
@@ -12584,6 +12607,7 @@
 ||tbbmiletisimekrani.sbs^
 ||tbsaxashfdsasf.sbs^
 ||tcadliye.net^
+||tcbmtrcumhurbaskanligiuygulama10.com.ph^
 ||tcdosyasorgu.org^
 ||tcegm.net^
 ||tckamusorgu.org^
@@ -12858,6 +12882,7 @@
 ||togsiparis.com^
 ||tok-asd.click^
 ||tokisatis.duckdns.org^
+||tokisatisibasladi.com^
 ||tokitoki.tech^
 ||tokraftokasfasax.xyz^
 ||tol-liber-oreal.myonlineportal.ch^
@@ -13102,6 +13127,7 @@
 ||tuvturkkyr.com^
 ||tuvturklsl.digital^
 ||tuvturkyys.com^
+||tuvuturk-onl-randvuun.click^
 ||tuvv-turkhizlislemler.com^
 ||tyldoreq.media^
 ||tylvaruna.buzz^
@@ -13448,6 +13474,7 @@
 ||xeltra.xyz^
 ||xelvion.site^
 ||xelvornuqami.bond^
+||xelvuroq.tr^
 ||xemdorak.com^
 ||xendora.xyz^
 ||xjeqebbcum.thechidocas.cyou^
