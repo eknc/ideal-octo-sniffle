@@ -6506,6 +6506,7 @@
 ||a1o1aldinss.duckdns.org^
 ||a1o1aldn.duckdns.org^
 ||a1o1alhemen.duckdns.org^
+||a1o1alisverisaldinaldin.duckdns.org^
 ||a1o1alsn.duckdns.org^
 ||a1o1bayram.duckdns.org^
 ||a1o1br.duckdns.org^
@@ -6525,6 +6526,7 @@
 ||a1o1harcaharcabitmez.duckdns.org^
 ||a1o1haziran.duckdns.org^
 ||a1o1hazirankampanya.blogspot.com^
+||a1o1hizlialisveris.duckdns.org^
 ||a1o1indirim.blogspot.com^
 ||a1o1kampanyalar.duckdns.org^
 ||a1o1kampanyalarii.duckdns.org^
@@ -8006,6 +8008,7 @@
 ||davakontrol.org^
 ||davamaliye.org^
 ||davamaliyetr.org^
+||davasorusturma.org^
 ||db-l55polisi.online^
 ||db155polis.online^
 ||db155polisi.online^
@@ -9290,6 +9293,7 @@
 ||hmnltansana.net^
 ||hmnnknltasn.net^
 ||hmnnltkansan.net^
+||hmntknlasntam.net^
 ||hmujqf.buzz^
 ||hnezkh.help^
 ||hngfbgfbfb.cyou^
@@ -9914,6 +9918,7 @@
 ||kireiu.eu^
 ||kisa-birseyler.cfd^
 ||kisa-links.xyz^
+||kisaalink.xyz^
 ||kisakisalinkler.vip^
 ||kisalink.lat^
 ||kisaltmalar.site^
@@ -9930,6 +9935,7 @@
 ||klasik6dsa.nicepage.io^
 ||klavli.site^
 ||klenarovituq.com^
+||klima-firsat.duckdns.org^
 ||klyqemora.buzz^
 ||klyvera.xyz^
 ||km-sorgu-pttavm-platform.web.app^
@@ -10105,6 +10111,7 @@
 ||kurudumprfsnefe43.click^
 ||kurumsalbirkurumsal.click^
 ||kurumsalmediamarkt.com^
+||kuveyt-mobilll.duckdns.org^
 ||kuveyt-turk-seyehat.duckdns.org^
 ||kuveyt-turk-umre.duckdns.org^
 ||kuveytbasvuru.rf.gd^
@@ -10310,6 +10317,7 @@
 ||malivezneformu.com^
 ||maliyeadalet.org^
 ||maliyebilgitr.org^
+||maliyebordro.org^
 ||maliyecezaportal.net^
 ||maliyegib.org^
 ||maliyehazine.org^
