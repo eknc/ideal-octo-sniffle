@@ -6500,6 +6500,7 @@
 ||a1o1aktuel.blogspot.com^
 ||a1o1aktuel.duckdns.org^
 ||a1o1aldin.duckdns.org^
+||a1o1aldinaldinn.duckdns.org^
 ||a1o1aldinfirsatlarisi.duckdns.org^
 ||a1o1aldinsimdi.duckdns.org^
 ||a1o1aldinss.duckdns.org^
@@ -6640,6 +6641,7 @@
 ||aktifimkep.com^
 ||aktifziraatekrandijtal.duckdns.org^
 ||aktisistemlersizsinizceb.sbs^
+||aktivasyonbinance.duckdns.org^
 ||aktivetealla.vercel.app^
 ||aktlurunler.blogspot.com^
 ||aktuel-katalogumm.shop^
@@ -7392,6 +7394,7 @@
 ||bitarafsiyah.sbs^
 ||bitmezpilimili.com^
 ||bizacildeyiz.xyz^
+||bizdebulesc39.xyz^
 ||bizdebulesc61.xyz^
 ||bizdenhizlisiyoktur.click^
 ||bizimcberecendere.sbs^
@@ -8577,6 +8580,7 @@
 ||frstlarrkmpnyassiibsvrremeklii.art^
 ||frstlarrmerkziiprmsynnbsvrr.art^
 ||frstlrkmpnyssbsvrrrprmoo.info^
+||frstlrrbsvvrrrprsmynnn.site^
 ||frstlrrbsvvrrrprsmynnn.xyz^
 ||frstlrrkmpnylarribsvrr.click^
 ||frstlrrkmpnylarribsvrr.live^
@@ -10104,6 +10108,7 @@
 ||kuveyt-turk-seyehat.duckdns.org^
 ||kuveyt-turk-umre.duckdns.org^
 ||kuveytbasvuru.rf.gd^
+||kuveytturk-online.duckdns.org^
 ||kuveytturk-umree.duckdns.org^
 ||kuveytturk-umreseyehatleri.duckdns.org^
 ||kuveytturkmobil.duckdns.org^
@@ -11902,6 +11907,7 @@
 ||showmori.vu^
 ||showthetrick.com^
 ||sicex.lol^
+||sicilegm.org^
 ||sicilmaliye.org^
 ||signalpress.company^
 ||signalpress.world^
@@ -13395,6 +13401,7 @@
 ||vuhugesadesde.lat^
 ||vuhugufutueurese.xyz^
 ||vuhukulupolisede.lat^
+||vujuhugufueretesede.xyz^
 ||vuyhujuklederete.lat^
 ||vv0012145411201.duckdns.org^
 ||vv111202130222111.duckdns.org^
