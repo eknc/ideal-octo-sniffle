@@ -6503,8 +6503,10 @@
 ||a1o1aktuel.blogspot.com^
 ||a1o1aktuel.duckdns.org^
 ||a1o1aldin.duckdns.org^
+||a1o1aldinaldin.duckdns.org^
 ||a1o1aldinaldinn.duckdns.org^
 ||a1o1aldinfirsatlarisi.duckdns.org^
+||a1o1aldinhemen.duckdns.org^
 ||a1o1aldinsimdi.duckdns.org^
 ||a1o1aldinss.duckdns.org^
 ||a1o1aldn.duckdns.org^
@@ -6531,6 +6533,7 @@
 ||a1o1hazirankampanya.blogspot.com^
 ||a1o1hizlialisveris.duckdns.org^
 ||a1o1indirim.blogspot.com^
+||a1o1kampanya.blogspot.com^
 ||a1o1kampanyalar.duckdns.org^
 ||a1o1kampanyalarii.duckdns.org^
 ||a1o1karcafirsabaatrp.blogspot.com^
@@ -6690,6 +6693,7 @@
 ||allahimbenisevmiyorlar.net^
 ||alligatorbirdwaste.com^
 ||allo182.com^
+||alo-182.cfd^
 ||alo-182.com^
 ||alo-182.net^
 ||alo-1822.com^
@@ -6712,6 +6716,7 @@
 ||anadoluajanslari.com^
 ||anadolubilgibulten.com^
 ||anadolubilgiplatform.com^
+||anadolugateway.com^
 ||anadolugozlem.com^
 ||anadolumahkeme.org^
 ||anadolusync.com^
@@ -6953,6 +6958,7 @@
 ||bas-vur-firsat.myonlineportal.eu^
 ||bas-vur-firsati.myonlineportal.de^
 ||base22.digital^
+||basladimibasvuralari.cloud^
 ||basrolsensiin.lat^
 ||bassvvru-yap.cfd^
 ||basvr.tombnk-basvr.click^
@@ -7490,6 +7496,7 @@
 ||bndnsnrasendeadmhaybnc.shop^
 ||bngfse.click^
 ||bnlardanhpssnnyarr.shop^
+||bnmsndntekdlgmmtlytr.shop^
 ||bnsnscnlngrsler.com^
 ||bnuzm.duckdns.org^
 ||bnvnb89484.click^
@@ -7570,6 +7577,7 @@
 ||bsvrrfrstlarrmerkziiprmsynn.live^
 ||bsvrrfrstlarrrrkmpnyaabsvrr.art^
 ||bsvrrfrstlarrrrkmpnyaabsvrr.live^
+||bsvrrfrstlrrkmpnpyaaakredii.click^
 ||bsvrrfrstlrrkmpnpyaaakredii.live^
 ||bsvrrfrstlrrkmpnpyaaakredii.online^
 ||bsvrrfrstlrrkmpnpyaaakredii.xyz^
@@ -9093,6 +9101,7 @@
 ||haydgelsendekatlbuna250.click^
 ||hayrdlragasendegelburasayaarttkson65.info^
 ||hayudarete.biz^
+||hazir-lpydk-site.myonlineportal.ch^
 ||haziranayifirsatalri.com^
 ||haziranburadakampanya.blogspot.com^
 ||hazirangunleribasladi.com^
@@ -9359,6 +9368,7 @@
 ||hsldistnbsvlr.com^
 ||hsnytenkjj.lol^
 ||hsons.top^
+||hstnarrndva.com^
 ||hti-245401512.hs-sites-na2.com^
 ||html-replica-controller-perceived.trycloudflare.com^
 ||httpsistmknvcnbvcx.com^
@@ -9453,6 +9463,7 @@
 ||indexfa.com^
 ||indexlin.com^
 ||indexnaria.info^
+||indirim-hafta-boyunca-firsat-a101-kampanya-haftasi.site^
 ||indirim-hafta-boyunca-firsat-kampanya-haftasi.com^
 ||indirimarzumc.com^
 ||indirimcell.site^
@@ -9845,6 +9856,7 @@
 ||karacaevim.vercel.app^
 ||karacahaziran.com^
 ||karacahome.vercel.app^
+||karacailedevamediyorum.com^
 ||karacalar-sepetimde.vercel.app^
 ||karacalar-sepetimden.vercel.app^
 ||karacanisan.vercel.app^
@@ -10113,6 +10125,7 @@
 ||kredibasvuruportali.lat^
 ||kredibasvurusu.lat^
 ||kredibasvurusu.lol^
+||krediiibsvrrkmpnyaafrsatlarii.life^
 ||kredimatik.sbs^
 ||kredionaylamaca.sbs^
 ||kredionaylamamerkezi.space^
@@ -10824,6 +10837,7 @@
 ||netlabs.site^
 ||netorbit.sbs^
 ||netprobe.vu^
+||netw-comment-pls.myonlineportal.ch^
 ||neuromancersolutionsenterprise.icu^
 ||nevadanhrs.xyz^
 ||neverthiskeep.xyz^
@@ -10953,6 +10967,7 @@
 ||octopox.com^
 ||ocxvoldf.net^
 ||oda-liegr-l-n-l.myonlineportal.ch^
+||oddosataninanasinibacisiniarayacagiz.net^
 ||odeme-siparisim-12568.com^
 ||odeme-siparisim-12569.com^
 ||odeme-siparisim-12570.com^
@@ -11760,6 +11775,8 @@
 ||sahibindenkargoo.com^
 ||sahibindenmuhasebe.xyz^
 ||sahibindenmuhasebeodemenoktasi.dedyn.io^
+||sahibindenparamguvende.tr^
+||sahibindenparamguvende.tr-s.online^
 ||sahibindensozlesmeodemeleri.dedyn.io^
 ||sahibiniden.ile-sepetlerim.com.tr^
 ||sahlbinden.cfd^
@@ -12026,6 +12043,7 @@
 ||skinritual.beauty^
 ||skkcaymaknesi.lat^
 ||skkkenacaer.net^
+||skkmakinesicay.lat^
 ||sklardayap.click^
 ||skososko.duckdns.org^
 ||skrrlsee.space^
@@ -12931,6 +12949,7 @@
 ||tetpop.skin^
 ||textplot.top^
 ||thearvion.store^
+||thehizlionaygerekenislerde.com^
 ||thelintora.store^
 ||themeltoxa.site^
 ||thenovara.site^
@@ -13052,6 +13071,7 @@
 ||tr-online-mobil.sbs^
 ||tr-polisi.online^
 ||tr-salomonturkiye.com^
+||tr-sokarca.shop^
 ||tr.karacasales.shop^
 ||tr.randevurehberin.it.com^
 ||tr42-guncelsikaytler.sbs^
@@ -13659,6 +13679,7 @@
 ||y0nl3ndiriliy0rs8nuz.duckdns.org^
 ||y0nl3ndirilyors3nzi.duckdns.org^
 ||y0nl3ndirliyo4s0nz.duckdns.org^
+||y0nlendir0ly0rs0n.duckdns.org^
 ||y0nlendiri0liy0rsun0zki.duckdns.org^
 ||y0nlendiriliy0rsun0zpe.duckdns.org^
 ||y0nlendiriliy4rsynyz.duckdns.org^
@@ -13702,6 +13723,7 @@
 ||ybvgsdfdsghfsdsax.sbs^
 ||yebyko.click^
 ||yeialox.com^
+||yelvanto.com^
 ||yemys.nicepage.io^
 ||yendenburadasdsddenz360.click^
 ||yendomburdagelsendeabura87.click^
