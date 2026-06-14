@@ -69,7 +69,9 @@
 ||10100002026.duckdns.org^
 ||10102dasdas02s2a2da.com^
 ||101ekstramr.duckdns.org^
+||101firsatlarimburda.click^
 ||101firsatlarin.com^
+||101firsatlars.click^
 ||101indirimfirsati.site^
 ||101kereonline.shop^
 ||101onlinemerkezlersistem.pages.dev^
@@ -4155,6 +4157,7 @@
 41.231.37.153
 41.63.63.134
 41.63.96.128
+||41242142142151512421.duckdns.org^
 ||412941234531.com^
 42.112.26.36
 42.112.26.45
@@ -6517,6 +6520,7 @@
 ||a1o1br.duckdns.org^
 ||a1o1burada.duckdns.org^
 ||a1o1burasi.duckdns.org^
+||a1o1burdanal.duckdns.org^
 ||a1o1cay.duckdns.org^
 ||a1o1caydanl.duckdns.org^
 ||a1o1de.blogspot.com^
@@ -6696,6 +6700,7 @@
 ||alo-182.cfd^
 ||alo-182.com^
 ||alo-182.net^
+||alo-182.sbs^
 ||alo-1822.com^
 ||alo182.com^
 ||alocagrimerkezi.com^
@@ -7983,6 +7988,7 @@
 ||csaxasdsafa-ee.cfd^
 ||ctfsai.cc^
 ||ctroocankaa.xyz^
+||cumgukuldaferetesede.xyz^
 ||cumisaldi.net^
 ||curkaonucakle.xyz^
 ||currentnews.icu^
@@ -9171,6 +9177,7 @@
 ||hepberabereleleburaya.sbs^
 ||hepbirliktemucadeleye.sbs^
 ||hepburadaguzel.com^
+||hepburdaiyiki.com^
 ||hepinizeilkyerlerdengeldik.com^
 ||hepsenal.sbs^
 ||hepsikredi-tr.com^
@@ -9546,6 +9553,7 @@
 ||islem-hizmet.com^
 ||islem-linkiniz.com^
 ||islemerkezler.sbs^
+||islemkanali.com^
 ||islemler-akbank.ph^
 ||islemler.duckdns.org^
 ||islemlerburasbs.art^
@@ -9788,6 +9796,7 @@
 ||kadfmnenre.cfd^
 ||kadikoy-vitrini.shop^
 ||kafaneroskzu.com^
+||kafasntutgelburdaalsyap.online^
 ||kahasdasd99asdasd88asds.click^
 ||kahpenevltlar.com^
 ||kahveix.com^
@@ -9838,6 +9847,7 @@
 ||kanpyasunfursathemnbashur3498023209.click^
 ||kanyancgenelmerkezkanalask.online^
 ||kaovurex.vu^
+||kapcenebgelhadsendebakburdahe.online^
 ||kapida-market.com^
 ||kapinateslimhizli.com^
 ||kapindakimutlulukhemenal.com^
@@ -10171,6 +10181,7 @@
 ||kurumsalbirkurumsal.click^
 ||kurumsalmediamarkt.com^
 ||kusursuzarackiralama.com^
+||kuvetteaqeqassasaa.com^
 ||kuveyt-mobilll.duckdns.org^
 ||kuveyt-onlineislemler.duckdns.org^
 ||kuveyt-turk-seyehat.duckdns.org^
@@ -10754,6 +10765,7 @@
 ||mshandebu31.sbs^
 ||msiidentity.com^
 ||msiparisinizi-tamamla.com^
+||mslraktivhemen.uk^
 ||msshrdkevu.com^
 ||msshrrdkevu.com^
 ||mswoqh.click^
@@ -10872,6 +10884,7 @@
 ||nexcore.art^
 ||nexlise.live^
 ||nexovationzone.com^
+||nextekdindlbelger.xyz^
 ||nextquarry.com^
 ||nextwave.business^
 ||nexusforged.pro^
@@ -12136,6 +12149,8 @@
 ||sonnbsvrrprmsynnnkmpnyaaa.live^
 ||sonnfrstlsrrrkmpnyaabsvrr.art^
 ||sonnfrstlsrrrkmpnyaabsvrr.info^
+||sonnnfrstlrrkmpnyaabsvrrr.info^
+||sonnnfrstlrrkmpnyaabsvrrr.pro^
 ||sonnnnfrstkkkmpnyabsvrr.art^
 ||sonnnnfrstkkkmpnyabsvrr.info^
 ||sonnnnfrstkkkmpnyabsvrr.pro^
@@ -13778,6 +13793,7 @@
 ||yinveyang9.sbs^
 ||ykbbilgilendirme.click^
 ||yllrdnsnlrdansdasds.click^
+||ynlendiriyos67nuz.duckdns.org^
 ||ynlendnrnyosun7z8120.duckdns.org^
 ||yolgoarackiralama.com^
 ||yolixarackiralama.com^
